@@ -1,5 +1,5 @@
 # TextToVoice
-C# code used to create the intro and outro text for the Azure Security Podcast, using Azure Cognitive Services
+C# code used to create the intro and outro text for the Azure Security Podcast, using Azure Cognitive Services.
 
 The code is bare-bones, but it works :)
 
@@ -16,3 +16,4 @@ To use this you need to:
 
 Supporting screenshots:
 ![](Annotation%202020-05-28%20151438.png)
+![](Annotation%202020-05-28%20163246.png)
