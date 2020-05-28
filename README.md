@@ -15,6 +15,9 @@ To use this you need to:
 - Open and listen to the resulting WAV file.
 
 Supporting screenshots:
+Select the correct Cognitive Service:
 ![](Annotation%202020-05-28%20163246.png)
+
+Getting a key and the location:
 ![](Annotation%202020-05-28%20151438.png)
 
